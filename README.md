@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I like playing Computer Games**
 
+- ⚡ My you tube chanell **[here](https://www.youtube.com/channel/UCkB-Ymo4ICLi-yCgVkXoq5g)**
+
 <br/><br/>
 
 <h3>🚀 My Skills 🚀</h3> <br/>
