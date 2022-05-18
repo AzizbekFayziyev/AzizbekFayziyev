@@ -33,7 +33,6 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
       <a href="https://sass-lang.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
        <a href="https://jquery.com/" target="_blank">  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png"/> </a>
-       <a href="https://animate.style/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-animate-filmmaking-flaticons-flat-flat-icons-2.png"/> </a> 
    
    
 </p>
