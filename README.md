@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I like playing Computer Games**
 
-- ⚡ My you tube chanell **[here](https://www.youtube.com/channel/UCkB-Ymo4ICLi-yCgVkXoq5g)**
+- ⚡ My telegram channel **[here](https://t.me/Fayziyev_Azizbek)**
 
 <br/><br/>
 
