@@ -15,27 +15,6 @@
 
 <br/><br/>
 
-<h3>🚀 My Skills 🚀</h3> <br/>
-
-## ❖ Tools:
-
-<p align="left"> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
-      <a href="https://sass-lang.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
-       <a href="https://jquery.com/" target="_blank">  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png"/> </a>
-   
-   
-</p>
-
-## ❖ Languages:
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge]
-<br/>
-
-<br/><br/>
-
 ## 📊 My Github Stats
 
   <br/>
