@@ -7,17 +7,9 @@
 
 <h3>✰ About Me ✰</h3> <br/>
 
-- 🔭 My Goal **learn web programming and become a good programmer**
-
 - 🌱 I’m currently learning **Web programming and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://t.me//AVANGARD2007)**
-
 - 📫 How to reach me **avancoder@gmail.com**
-
-- ⚡ Fun fact **I like playing Computer Games**
 
 - ⚡ My telegram channel **[here](https://t.me/Fayziyev_Azizbek)**
 
@@ -52,11 +44,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/AzizbekFayziyev/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AzizbekFayziyev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
