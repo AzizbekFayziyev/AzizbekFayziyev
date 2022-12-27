@@ -31,7 +31,7 @@
 
 ## ❖ Languages:
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge]
 <br/>
 
 <br/><br/>
@@ -47,15 +47,6 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-<p align="left">
- 
-<a href = "https://www.youtube.com/channel/UCkB-Ymo4ICLi-yCgVkXoq5g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://t.me//Fayziyev_Azizbek"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://avancoder.netlify.app/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
-
 
 </p>
 
