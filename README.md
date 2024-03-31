@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=13FF00&random=false&width=435&lines=Hi%2C+i'm+Azizbek+Fayziyev!;I'm+Front-end+developer!+;I'm+React.js+developer!)](https://git.io/typing-svg)
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-
 <h3>✰ About Me ✰</h3> <br/>
 
 - ✍ You can find my projects **here**
@@ -45,7 +42,7 @@
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-            <br>Tailwind Css
+            <br>Tailwind
         </td>
         <td align="center"  width="96">
             <a href="https://nextjs.org/" target="_blank"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="react" width="40" height="40"/> </a> 
@@ -69,7 +66,7 @@
         </td>
         <td align="center" width="96">
             <img src="https://img.icons8.com/color/512/redux.png" width="48" height="48" alt="Redux" />
-            <br>Redux toolkit
+            <br>Redux
         </td>
         <td align="center" width="96">
             <img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" width="48" height="48" alt="Figma" />
