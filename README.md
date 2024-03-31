@@ -1,19 +1,84 @@
-<h1 align="center">Hi, I'm Fayziyev Azizbek</h1>
-<h3 align="center">I'm A Front-End Devloper from Uzbekistan.</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=13FF00&random=false&width=435&lines=Hi%2C+i'm+Azizbek+Fayziyev!;I'm+Front-end+developer!+;I'm+React.js+developer!)](https://git.io/typing-svg)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
 <h3>✰ About Me ✰</h3> <br/>
 
-- 🌱 I’m currently learning **Web programming and Algorithms.**
+- ✍ You can find my projects **here**
+
+- 🌱 I’m currently learning **Front end development**
 
 - 📫 How to reach me **avancoder@gmail.com**
 
-- ⚡ My telegram channel **[here](https://t.me/Fayziyev_Azizbek)**
+- ⚡ I’m currently working on **creative web sites**
 
 <br/><br/>
+
+##⚙️ Technologies I use  
+
+> Tools and technologies that I have worked with and am interested in
+
+<table align="center">
+    <tr>
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <br>HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+            <br>CSS
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>Javascript
+        </td>
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br>Bootstrap
+        </td>
+    </tr>
+    <tr>
+        <td align="center"  width="96">
+            <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+            <br>React js
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+            <br>Tailwind Css
+        </td>
+        <td align="center"  width="96">
+            <a href="https://nextjs.org/" target="_blank"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="react" width="40" height="40"/> </a> 
+            <br>Next js
+        </td>
+        <td align="center" width="96">
+            <a href="#ts">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+            </a>
+            <br>TypeScript
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="48" height="48" alt="firebase" />
+            <br>Firebase
+        </td>
+        <td align="center" width="96">
+            <img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" width="48" height="48" alt="ChakraUI" />
+            <br>Material UI
+        </td>
+        <td align="center" width="96">
+            <img src="https://img.icons8.com/color/512/redux.png" width="48" height="48" alt="Redux" />
+            <br>Redux toolkit
+        </td>
+        <td align="center" width="96">
+            <img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" width="48" height="48" alt="Figma" />
+            <br>SCSS
+        </td>
+    </tr>
+</table>
+
+<br/> <br/>
 
 ## 📊 My Github Stats
 
