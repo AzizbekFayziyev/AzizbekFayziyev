@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=13FF00&random=false&width=435&lines=Hi%2C+i'm+Azizbek+Fayziyev!;I'm+Front-end+developer!+;I'm+React.js+developer!)](https://git.io/typing-svg)
 <h3>✰ About Me ✰</h3> <br/>
+> Front-end developer focused on creating Web sites. I really like different projects that solve real problems.
+<h5>I'm Azizbek Fayziyev. I am 17 years old and i live in Tashkent. Front-End Developer In React JS. I like to learn more and more about the programming, challenges that take me out of my comfort zone are the best.
+<br/>
+I can prototyped and devloped landing Pages, E-commerce, Multi-Page Web Sites, Web Applications and more..</h5>
 
 - ✍ You can find my projects **here**
 
@@ -11,7 +15,7 @@
 
 <br/>
 
-##⚙️ Technologies I use  
+<h3>✰ Technologies I use ✰</h3>
 > Tools and technologies that I have worked with and am interested in
 
 <table align="center">
