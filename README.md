@@ -3,9 +3,6 @@
 <h4>
 Front-end developer focused on creating Web sites. I really like different projects that solve real problems.
 </h4>
-<h5>I'm Azizbek Fayziyev. I am 17 years old and i live in Tashkent. Front-End Developer In React JS. I like to learn more and more about the programming, challenges that take me out of my comfort zone are the best.
-<br/>
-I can prototyped and devloped landing Pages, E-commerce, Multi-Page Web Sites, Web Applications and more..</h5>
 
 - ✍ You can find my projects **here**
 
