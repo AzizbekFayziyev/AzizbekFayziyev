@@ -8,7 +8,7 @@ Front-end developer focused on creating Web sites. I really like different proje
 
 - 🌱 I’m currently learning **Front end development**
 
-- 📫 How to reach me **avancoder@gmail.com**
+- 📫 How to reach me **fayziyev.dev@gmail.com**
 
 - ⚡ I’m currently working on **creative web sites**
 
