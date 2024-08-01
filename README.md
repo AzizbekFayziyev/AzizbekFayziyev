@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=13FF00&random=false&width=435&lines=Hi%2C+i'm+Azizbek+Fayziyev!;I'm+Front-end+developer!+;I'm+React.js+developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=13FF00&random=false&width=435&lines=Hi%2C+i'm+Azizbek+Fayziyev!;I'm+Front-end+developer!+;I'm+React.js+developer!+;I'm+Vue.js+developer!)](https://git.io/typing-svg)
 <h3>✰ About Me ✰</h3>
 <h4>
 Front-end developer focused on creating Web sites. I really like different projects that solve real problems.
