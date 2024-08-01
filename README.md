@@ -84,7 +84,7 @@ Front-end developer focused on creating Web sites. I really like different proje
             <br>Nuxt.js
         </td>
        <td align="center" width="96">
-            <img src="https://seeklogo.com/images/P/pinia-logo-51BF712FB0-seeklogo.com.png" width="48" height="48" alt="Figma" />
+            <img src="https://velog.velcdn.com/images/ravina/post/c05b85bb-142f-4bdc-84ff-80a189c93cac/image.PNG" width="48" height="48" alt="Figma" />
             <br>Pinia
         </td>
         <td align="center" width="96">
