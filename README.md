@@ -74,6 +74,25 @@ Front-end developer focused on creating Web sites. I really like different proje
             <br>SCSS
         </td>
     </tr>
+     <tr>
+        <td align="center" width="96">
+            <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/vue_js_logo-256.png" width="48" height="48" alt="firebase" />
+            <br>Vue js
+        </td>
+        <td align="center" width="96">
+            <img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="48" height="48" alt="ChakraUI" />
+            <br>Nuxt.js
+        </td>
+       <td align="center" width="96">
+            <img src="https://seeklogo.com/images/P/pinia-logo-51BF712FB0-seeklogo.com.png" width="48" height="48" alt="Figma" />
+            <br>Pinia
+        </td>
+        <td align="center" width="96">
+            <img src="https://pbs.twimg.com/profile_images/1696835964881002498/0YEYRNGF_400x400.png" width="48" height="48" alt="Redux" />
+            <br>Nuxt UI
+        </td>
+      
+    </tr>
 </table>
 
 <br/> <br/>
