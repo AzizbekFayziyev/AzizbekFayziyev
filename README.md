@@ -91,8 +91,6 @@ Front-end developer focused on creating Web sites. I really like different proje
             <img src="https://pbs.twimg.com/profile_images/1696835964881002498/0YEYRNGF_400x400.png" width="48" height="48" alt="Redux" />
             <br>Nuxt UI
         </td>
-      
-    </tr>
 </table>
 
 <br/> <br/>
